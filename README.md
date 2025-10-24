@@ -1,2 +1,3 @@
-# java---projects
-a collection of my java projects
+# java-- Student Grade Calculator
+ # A Student Grade Calculator
+
